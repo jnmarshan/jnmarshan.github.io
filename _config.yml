@@ -2,8 +2,10 @@ theme: jekyll-theme-minimal
 title: Joseph Natanael Marshan
 description: Website build for fun
 email: joseph.marshan@anu.edu.au
-twitter_username: JosephMarshan
-github_username: jnmarshan
+
+#author setting
 author: Joseph Marshan
+  twitter_username: JosephMarshan
+  github_username: jnmarshan
 
 #build settings
