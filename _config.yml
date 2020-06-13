@@ -1,13 +1,11 @@
 theme: jekyll-theme-minimal
-title: Joseph Natanael Marshan
-description: I am a PhD student at Research School of Economics Australian National University
+title: Joseph Marshan
+description: I am a PhD student at Australian National University
 email: joseph.marshan@anu.edu.au
 
-#author setting
+#author settings
 author: Joseph Marshan
-  twitter: JosephMarshan
   twitter_username: JosephMarshan
   github_username: jnmarshan
-  linkedin: josephmarshan
 
 #build settings
