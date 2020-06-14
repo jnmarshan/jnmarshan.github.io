@@ -9,7 +9,18 @@ Despite significant improvement in education and health access, younger cohort o
 ### Intergenerational link of female labor force participation: Evidence from Indonesia
 Evidence of the importance of mother participation and daughter participation in the next generation.
 
-## Other affiliated link:
+## Contact:
+Crisp Building, Rm 2075
+College of Busines and Economics
+25a Kingsley St,
+Acton, ACT, 2601
+Australia
+
+Email: joseph`[`dot`]`marshan`[`at`]`anu`[`dot`]`edu`[`dot`]`au
+Github: [jnmarshan](https://github.com/jnmarshan/jnmarshan.github.io)
+Twitter: [@JosephMarshan](https://twitter.com/JosephMarshan)
+
+### Other affiliated link
 [SMERU profile](https://www.smeru.or.id/en/content/joseph-natanael-marshan)
 
 [ANU webpage](https://www.cbe.anu.edu.au/about/staff-directory/?profile=Joseph-Marshan)
