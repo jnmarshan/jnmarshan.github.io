@@ -19,6 +19,7 @@ Australia
 Email: joseph.marshan@anu.edu.au  
 Github: [jnmarshan](https://github.com/jnmarshan/jnmarshan.github.io)  
 Twitter: [@JosephMarshan](https://twitter.com/JosephMarshan)
+Linkedin: [jmarshan](https://www.linkedin.com/in/jmarshan/)
 
 ### Other links:
 [SMERU profile](https://www.smeru.or.id/en/content/joseph-natanael-marshan) 
