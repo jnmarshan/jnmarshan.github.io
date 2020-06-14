@@ -11,10 +11,9 @@ Despite significant improvement in education and health access, younger cohort o
 ![flfpcohorts](pics/figflp.png)
 
 ### Intergenerational link of female labor force participation: Evidence from Indonesia
-I provide evidence of the importance of mother participation and daughter participation in the next generation. The effect size is as four times as additional year of schooling. Pro-equality (traditional) community belief strengthens (negates) this intergenerational link.
-
-Illustrations only, all credits to [roxanabalint ](https://www.vectorstock.com/royalty-free-vectors/vectors-by_roxanabalint). Not taken from my paper.  
-![intergen](pics/likemom.png)
+I provide evidence of the importance of mother participation and daughter participation in the next generation. The effect size is as four times as additional year of schooling. Pro-equality (traditional) community belief strengthens (negates) this intergenerational link.  
+![intergen](pics/likemom.png)  
+*Illustrations only, all credits to [roxanabalint ](https://www.vectorstock.com/royalty-free-vectors/vectors-by_roxanabalint). Not taken from my paper.*  
 
 ## Contact:
 Crisp Building, Rm 2075  
