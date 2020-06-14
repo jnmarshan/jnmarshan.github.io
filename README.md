@@ -6,7 +6,7 @@ Indonesian women has long suffering stagnation in labor market participation. I 
 ![flfptrends](pics/Figure1a.png)
 
 ## Recent work in progress 
-### Beyond stagnation: The case of precariouss drop of labor force participation of younger female in rural area
+### Beyond stagnation: The case of precarious drop of labor force participation of younger female in rural area
 Despite significant improvement in education and health access, younger cohort of female living in rural area opt out from labor force participation.  
 ![flfpcohorts](pics/figflp.png)
 
