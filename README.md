@@ -2,7 +2,7 @@
 
 I am PhD candidate in economics at Research School of Economics, The Australian National University. My research interest lies between labor economics, gender economics and development economics. My main research topic is female labor force participation in Indonesia.
 
-![flfp]()
+![flfp](pics/figflp.png)
 
 ## Recent work in progress 
 ### Female labor force stagnation: Indonesia case
