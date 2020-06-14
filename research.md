@@ -2,12 +2,14 @@
 Abstract:
 I investigate the existence of intergenerational link of female labor force participation in Indonesia using a rich large-scale longitudinal data known as Indonesia Family Life Survey (IFLS). The IFLS gives opportunity to draw intergenerational link between mother’s and daughter’s labor force participation. This study contributes to limited empirical evidence on intergenerational link in female labor market in a developing country setup. I find that such intergenerational link exist, in particular, for those who live in urban area. Mother’s participation effect, albeit small, is four times larger in size than the effect of additional one year of education to daughter’s labor force participation. This suggests meaningful and the importance of intergenerational belief transfer in shaping the next generation of female labor force. I also find that community that adopts pro-gender norms preserve and strengthen the intergenerational link. Finally, I provide evidence that transfer of gender role belief from mother to daughter as the plausible mechanism.
 
-### Income inequality trends in Indonesia. With [Zulfan Tadjoeddin](https://www.westernsydney.edu.au/staff_profiles/WSU/associate_professor_zulfan_tadjoeddin):
+### Income inequality trends in Indonesia. 
+_Co-author: [Zulfan Tadjoeddin](https://www.westernsydney.edu.au/staff_profiles/WSU/associate_professor_zulfan_tadjoeddin)_
 Abstract:
 This paper presents income inequality, measured as ratio of income based on gender, education, and working status categories in Indonesia for the last two decades.
 
 
-### [Structural Transformation and the Release of Labor from Agriculture.](https://www.adb.org/sites/default/files/publication/400586/indonesia-enhancing-productivity-quality-jobs.pdf) With [Asep Suryahadi](https://smeru.or.id/en/content/asep-suryahadi) and [Veto Indrio](https://www.smeru.or.id/en/content/veto-tyas-indrio)
+### [Structural Transformation and the Release of Labor from Agriculture.](https://www.adb.org/sites/default/files/publication/400586/indonesia-enhancing-productivity-quality-jobs.pdf) 
+_Co-author: [Asep Suryahadi](https://smeru.or.id/en/content/asep-suryahadi) and [Veto Indrio](https://www.smeru.or.id/en/content/veto-tyas-indrio)_
 Abstract:
 Structural transformation in Indonesia has been characterized by faster output
 than employment shifts from agriculture to industry and services. As a result, the
