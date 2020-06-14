@@ -1,8 +1,13 @@
-## Teaching Assistanship
+## Teaching Assistants
+Course evaluation available on the link at each courses.
 
-1. EMET 8005 (First Semester 2020)
-2. EMET
-3. ECON
-4. ECON
+### Postgraduate level
 
-## Course Evaluations
+1. Econometric Methods and Modelling, 2019-2020 [See evaluation](https://jnmarshan.github.io/docs/jmCV_V2.pdf)
+2. Case Studies in Applied Economic Analysis and Econometrics, 2019  [See evaluation](https://jnmarshan.github.io/docs/jmCV_V2.pdf)
+3. Applied Micro-econometrics, 2018. [See evaluation](https://jnmarshan.github.io/docs/jmCV_V2.pdf)
+
+### Undergraduate level
+1. Microeconomics 2, 2017. [See evaluation](https://jnmarshan.github.io/docs/jmCV_V2.pdf)
+
+
