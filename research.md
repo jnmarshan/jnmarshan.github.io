@@ -4,12 +4,14 @@ I investigate the existence of intergenerational link of female labor force part
 
 ### Income inequality trends in Indonesia. 
 _Co-author: [Zulfan Tadjoeddin](https://www.westernsydney.edu.au/staff_profiles/WSU/associate_professor_zulfan_tadjoeddin)_
+
 Abstract:
 This paper presents income inequality, measured as ratio of income based on gender, education, and working status categories in Indonesia for the last two decades.
 
 
 ### [Structural Transformation and the Release of Labor from Agriculture.](https://www.adb.org/sites/default/files/publication/400586/indonesia-enhancing-productivity-quality-jobs.pdf) 
 _Co-author: [Asep Suryahadi](https://smeru.or.id/en/content/asep-suryahadi) and [Veto Indrio](https://www.smeru.or.id/en/content/veto-tyas-indrio)_
+
 Abstract:
 Structural transformation in Indonesia has been characterized by faster output
 than employment shifts from agriculture to industry and services. As a result, the
