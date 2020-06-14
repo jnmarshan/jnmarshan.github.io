@@ -10,19 +10,16 @@ Despite significant improvement in education and health access, younger cohort o
 Evidence of the importance of mother participation and daughter participation in the next generation.
 
 ## Contact:
-Crisp Building, Rm 2075
-College of Busines and Economics
-25a Kingsley St,
-Acton, ACT, 2601
+Crisp Building, Rm 2075  
+College of Busines and Economics  
+25a Kingsley St,  
+Acton, ACT, 2601  
 Australia
 
-Email: joseph.marshan@anu.edu.au
-
-Github: [jnmarshan](https://github.com/jnmarshan/jnmarshan.github.io)
-
+Email: joseph.marshan@anu.edu.au  
+Github: [jnmarshan](https://github.com/jnmarshan/jnmarshan.github.io) 
 Twitter: [@JosephMarshan](https://twitter.com/JosephMarshan)
 
 ### Other affiliated link
-[SMERU profile](https://www.smeru.or.id/en/content/joseph-natanael-marshan)
-
+[SMERU profile](https://www.smeru.or.id/en/content/joseph-natanael-marshan) 
 [ANU webpage](https://www.cbe.anu.edu.au/about/staff-directory/?profile=Joseph-Marshan)
