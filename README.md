@@ -16,8 +16,10 @@ College of Busines and Economics
 Acton, ACT, 2601
 Australia
 
-Email: joseph`[`dot`]`marshan`[`at`]`anu`[`dot`]`edu`[`dot`]`au
+Email: joseph.marshan@anu.edu.au
+
 Github: [jnmarshan](https://github.com/jnmarshan/jnmarshan.github.io)
+
 Twitter: [@JosephMarshan](https://twitter.com/JosephMarshan)
 
 ### Other affiliated link
