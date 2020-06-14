@@ -5,3 +5,9 @@ email: joseph.marshan@anu.edu.au
 
 #author settings
 author: Joseph Marshan
+social-network-links:
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  rss: true
