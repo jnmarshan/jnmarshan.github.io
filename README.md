@@ -2,14 +2,19 @@
 
 I am PhD candidate in economics at Research School of Economics, The Australian National University. My research interest lies between labor economics, gender economics and development economics. My main research topic is female labor force participation in Indonesia.
 
-![flfp](pics/figflp.png)
+Indonesian women has long suffering stagnation in labor market participation. I study the potential role of social norm, labor market structure, and household behavior change overtime in Indonesia.
+![flfptrends](pics/Figure1a.png)
 
 ## Recent work in progress 
-### Female labor force stagnation: Indonesia case
+### Beyond stagnation: The case of precariouss drop of labor force participation of younger female in rural area
 Despite significant improvement in education and health access, younger cohort of female living in rural area opt out from labor force participation.
+
+![flfpcohorts](pics/figflp.png)
 
 ### Intergenerational link of female labor force participation: Evidence from Indonesia
 Evidence of the importance of mother participation and daughter participation in the next generation.
+
+![intergen](pics/likemom.png)
 
 ## Contact:
 Crisp Building, Rm 2075  
