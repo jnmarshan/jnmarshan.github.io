@@ -1,7 +1,7 @@
 ## Teaching Assistants
 Course evaluation available on the link at each courses.
 
-## Awards
+### Awards
 CBE Teaching Commendation for Outstanding Tutoring (2020)
 
 ### Postgraduate level
