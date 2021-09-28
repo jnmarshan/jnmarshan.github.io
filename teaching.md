@@ -1,6 +1,9 @@
 ## Teaching Assistants
 Course evaluation available on the link at each courses.
 
+## Awards
+CBE Teaching Commendation for Outstanding Tutoring (2020)
+
 ### Postgraduate level
 
 1. Econometric Methods and Modelling, 2020. [See evaluation](https://jnmarshan.github.io/docs/jmCV_V2.pdf)
