@@ -1,4 +1,4 @@
-# Published work
+## Published work
 ### [Labour market effects of bushfires and floods in Australia: a gendered perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12688)
 _Co-author: [Josiah Hickson](https://www.linkedin.com/in/josh-hickson-a36a4010a/?originalSubdomain=au)_
 _Economic Records Volume98, IssueS1 pages 1-25_
@@ -8,7 +8,7 @@ We study the labour market effects of bushfires and floods within Australia over
 
 [Working paper version](https://jnmarshan.github.io/docs/Compiled_Gendered_consequences_of_natural_disaster_Final_ER.pdf)
 
-# Working Paper
+## Working Paper
 
 ### [Intergenerational link of female labor force participation: Evidence from Indonesia](https://jnmarshan.github.io/docs/chapter01_v1.pdf)
 Abstract:
@@ -39,7 +39,7 @@ _Co-author: [Zulfan Tadjoeddin](https://www.westernsydney.edu.au/staff_profiles/
 Abstract:
 This paper presents income inequality, measured as ratio of income based on gender, education, and working status categories in Indonesia for the last two decades.
 
-# Book Chapter
+## Book Chapter
 ### [Structural Transformation and the Release of Labor from Agriculture.](https://www.adb.org/sites/default/files/publication/400586/indonesia-enhancing-productivity-quality-jobs.pdf) 
 _Co-author: [Asep Suryahadi](https://smeru.or.id/en/content/asep-suryahadi) and [Veto Indrio](https://www.smeru.or.id/en/content/veto-tyas-indrio)_
 
