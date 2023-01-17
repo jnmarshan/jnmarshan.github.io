@@ -1,8 +1,7 @@
 ## Random stuff about me
-### Places I have lived in 
-I don't travel a lot, but here are places I have lived in (more than a year).
-![mymaps](pics/mymaps.png)
+### On Media
 
-### Some photo
-Sometimes I do take photos
+[Will Indonesia’s 4.0 revolution leave women behind?](https://indonesiaatmelbourne.unimelb.edu.au/will-indonesias-4-0-revolution-leave-women-behind/?fbclid=IwAR1ImqB1X9iqCRCQxkkJmJ-c7bCTD1leEaYH6wV174JblIuf2kNIUFcYRlo) - published at Indonesia at Melbourne
+
+_with [Ruth Nikijuluw](https://www.linkedin.com/in/ruth-nikijuluw/?originalSubdomain=au)_
 
