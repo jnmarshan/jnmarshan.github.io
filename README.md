@@ -8,7 +8,7 @@ I am PhD candidate in economics at Research School of Economics, The Australian 
 ## Research highlights
 
 ### [Labour market effects of bushfires and floods in Australia: a gendered perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12688)
-_Co-author: [Josiah Hickson](https://www.linkedin.com/in/josh-hickson-a36a4010a/?originalSubdomain=au)_ | _Economic Records Volume 98, Issue S1 pages 1-25_
+_with [Josiah Hickson](https://www.linkedin.com/in/josh-hickson-a36a4010a/?originalSubdomain=au)_ | _Economic Records Volume 98, Issue S1 pages 1-25_
 
 We study the labour market effects of bushfires and floods within Australia over the past two decades, focusing on gender as a determinant of vulnerability. Whilst floods unambiguously lifted the labour supply of both genders (creating around 13,500 jobs per year), the likelihood of female employment is particularly vulnerable to bushfires – lowering by 1.6 percentage points (or around 5,000 jobs per year). This effect is partially explained by industry sector, with bushfires lifting overall male employment through industries including mining and transport, whilst reducing more female dominated services-sector participation. We also examine intrahousehold dynamics, finding strongevidence for an ‘added worker’ effect.
 
