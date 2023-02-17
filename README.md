@@ -22,7 +22,7 @@ I investigate the existence of an intergenerational link between women’s labor
 *Illustrations only, all credits to [roxanabalint ](https://www.vectorstock.com/royalty-free-vectors/vectors-by_roxanabalint). Not taken from my paper.*  
 
 
-### [Unlucky and scarred: long-term consequences of labor market entry condition in Indonesia](https://jnmarshan.github.io/docs/chapter03_v1.pdf)
+### [Unlucky and scarred: long-term consequences of labor market entry condition in Indonesia](https://jnmarshan.github.io/docs/chapter03_v4.pdf)
 I exploit the fact that since the Asian Financial Crisis hit in 1997/1998, Indonesia suffered a spike in the unemployment rate that prolonged for almost a decade. I collect and harmonize a long series of Indonesian labor market surveys (SAKERNAS) spanning over 30 years to construct a pseudo-panel cohort of new labor market entrants from 1990 to 2019. Following Kahn (2010) and Oreopoulos et al. (2012), I exploit exogenous temporal variation of the unemployment rate at the national level and province level to test the existence of scarring effects. I find evidence of a scarring effect where a 1 percentage point increase in the unemployment rate at the year of labor market entrance causes about 15% loss in probability to be employed full-time and about 26% potential monthly income loss. I find women and men share similar burdens in terms of negative employment effects, but larger negative income effects for women.
 
 ![scarr](pics/gradyr_full.png)
