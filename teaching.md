@@ -1,5 +1,5 @@
 ## Teaching Assistants
-As Tutor at Research School Of Economics, ANU.
+As Tutor at College of Business and Economics (CBE), ANU.
 
 ### Awards
 CBE Teaching Commendation for Outstanding Tutoring (2020)
