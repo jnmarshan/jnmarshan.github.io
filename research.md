@@ -1,7 +1,7 @@
 ## Published work
 ### [Labour market effects of bushfires and floods in Australia: a gendered perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12688)
 _with [Josiah Hickson](https://www.linkedin.com/in/josh-hickson-a36a4010a/?originalSubdomain=au)_
-_Economic Records Volume 98, IssueS1 pages 1-25_
+_Economic Records Volume 98, Issue S1 pages 1-25_
 
 We study the labour market effects of bushfires and floods within Australia over the past two decades, focusing on gender as a determinant of vulnerability. Whilst floods unambiguously lifted the labour supply of both genders (creating around 13,500 jobs per year), the likelihood of female employment is particularly vulnerable to bushfires – lowering by 1.6 percentage points (or around 5,000 jobs per year). This effect is partially explained by industry sector, with bushfires lifting overall male employment through industries including mining and transport, whilst reducing more female dominated services-sector participation. We also examine intrahousehold dynamics, finding strongevidence for an ‘added worker’ effect.
 
@@ -9,7 +9,7 @@ We study the labour market effects of bushfires and floods within Australia over
 
 ## Working Papers
 
-### [Intergenerational link of female labor force participation: Evidence from Indonesia](https://jnmarshan.github.io/docs/chapter01_v1.pdf)
+### [Intergenerational link of female labor force participation: Evidence from Indonesia](https://jnmarshan.github.io/docs/motherdaughter_web.pdf)
 
 I investigate the existence of an intergenerational link between women’s labor supply decisions in Indonesia using rich large-scale longitudinal data known as the Indonesia Family Life Survey (IFLS). This study contributes to limited empirical evidence on the intergenerational link in female attachment in the labor market in the context of a developing country. In addition to cross-sectional correlation, I employ a permanent component approach (Chadwick and Solon, 2002; Galassi et al., 2019) to estimate the intergenerational correlation between the mother’s lifetime employment and the daughter’s lifetime employment. I find that a mother’s employment affects her daughter’s employment decision in the future. From the baseline specification result, this intergenerational link coefficient is equivalent to more than two additional years of education. This suggests meaningfulness and the importance of intergenerational belief transfer in shaping the next generation of the female labor force. Finally,I provide evidence that the role-model effects and occupation-specific human capital transfer are the main plausible mechanism behind the intergenerational correlation. The study highlights the challenges of any efforts to improve the female labor supply
 given a slowly changing social norms society.
