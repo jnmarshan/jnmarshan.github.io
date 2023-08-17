@@ -34,7 +34,7 @@ Acton, ACT, 2601
 Australia
 
 Email: [joseph.marshan@anu.edu.au](mailto:joseph.marshan@anu.edu.au)  
-Google Scholar: [Joseph Marshan][https://scholar.google.com/citations?hl=en&user=knBTakwAAAAJ]
+Google Scholar: [Joseph Marshan](https://scholar.google.com/citations?hl=en&user=knBTakwAAAAJ)
 Twitter: [@josephmarshan](https://twitter.com/JosephMarshan)  
 Linkedin: [jmarshan](https://www.linkedin.com/in/jmarshan/)
 
