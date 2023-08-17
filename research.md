@@ -20,6 +20,7 @@ This paper provides empirical evidence of the long-term consequences of labor ma
 
 ### [Land of the (Un)Fair Go? Peer gender norms and gender gaps in the Australian labour market](https://taxpolicy.crawford.anu.edu.au/sites/default/files/publication/taxstudies_crawford_anu_edu_au/2023-07/complete_wp_hickson_marshan_july_2023.pdf)
 _with [Josiah Hickson](https://www.linkedin.com/in/josh-hickson-a36a4010a/?originalSubdomain=au)_ | _TTPI Working Paper Series_
+
 Australian attitudes towards women remain more conservative than in many other OECD countries. We examine the effect of these norms on female labour outcomes and intrahousehold dynamics using a peer effects model and nearly two decades of longitudinal household survey data. Our results indicate that conservative gender norms are costly to individual women and are an important determinant of gender inequality, resulting for women in lower lifetime rates of labour force participation and suppressed lifetime earnings trajectories. Estimated effects are large in magnitude: shifting norms to be one standard deviation more egalitarian would eliminate
 three-quarters of the gender gap in employment and around two-thirds of the gender pay gap. More egalitarian peer norms are also associated with increased household incomes, a more equitable division of unpaid domestic work, and greater overall life satisfaction.
 
