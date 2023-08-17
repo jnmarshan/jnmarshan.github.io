@@ -1,4 +1,4 @@
-## Research project (non-PhD)
+## Research project (non-PhD related)
 
 ### Poverty Map Indonesia
 The project produce the only village-level poverty rate estimation in Indonesia using small-area-estimation technique. I involved as quantitative researchers prior to my PhD.
