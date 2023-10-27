@@ -1,3 +1,3 @@
-[Download here](https://jnmarshan.github.io/docs/jmCV_V4.pdf)
+[Download here](https://jnmarshan.github.io/docs/resume.pdf)
 
-<embed src="https://jnmarshan.github.io/docs/jmCV_V4.pdf" type="application/pdf" style="width: 600px; height: 700px" />
+<embed src="https://jnmarshan.github.io/docs/resume.pdf" type="application/pdf" style="width: 600px; height: 700px" />
