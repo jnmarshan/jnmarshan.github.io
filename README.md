@@ -16,7 +16,7 @@ We study the labour market effects of bushfires and floods within Australia over
 
 [\[Working paper version\]](https://jnmarshan.github.io/docs/Compiled_Gendered_consequences_of_natural_disaster_Final_ER.pdf)
 
-### [Unlucky and scarred: long-term consequences of labour market entry condition in Indonesia](https://jnmarshan.github.io/docs/unluckyscarriing_web.pdf)
+### [Unlucky and scarred: long-term consequences of labour market entry condition in Indonesia](https://jnmarshan.github.io/docs/unluckyscarring_web.pdf)
 
 I exploit the fact that since the Asian Financial Crisis hit in 1997/1998, Indonesia suffered a spike in the unemployment rate that prolonged for almost a decade. I collect and harmonize a long series of Indonesian labour market surveys (SAKERNAS) spanning over 30 years to construct a pseudo-panel cohort of new labour market entrants from 1990 to 2019. Following Kahn (2010) and Oreopoulos et al. (2012), I exploit exogenous temporal variation of the unemployment rate at the national level and province level to test the existence of scarring effects. I find evidence of a scarring effect where a 1 percentage point increase in the unemployment rate at the year of labour market entrance causes about 15% loss in probability to be employed full-time and about 26% potential monthly income loss. I find women and men share similar burdens in terms of negative employment effects, but larger negative income effects for women.
 
