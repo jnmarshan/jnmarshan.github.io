@@ -2,7 +2,7 @@
 
 I am PhD candidate in economics at Research School of Economics, The Australian National University. My research interest lies between labour economics, gender economics and development economics. My main research topic is lifetime labour market outcomes and gender issues in Indonesia and Australia.
 
-[Latest Resume](https://jnmarshan.github.io/resume_web.pdf)
+[Latest Resume](https://jnmarshan.github.io/resume)
 
 ## Research highlights
 
