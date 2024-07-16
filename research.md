@@ -8,6 +8,11 @@ We study the labour market effects of bushfires and floods within Australia over
 [Working paper version](https://jnmarshan.github.io/docs/Compiled_Gendered_consequences_of_natural_disaster_Final_ER.pdf)
 
 ## Working Papers
+### Trade and gendered labor outcomes: evidence from changing export demand in Indonesia
+_with Ridho Izzati & Donny Pasaribu_
+
+We present new evidence on the gendered consequences of trade, specifically examining shifts in foreign demand. We construct panel mean-aggregated local labor market outcomes for women at the provincial level. Our Two-Stage Least Squares (2SLS) approach suggests that an increase in foreign demand shock has a limited impact on reducing gender gaps and negatively affects total employment and the share of female-dominant sectors. This adverse employment effect is primarily driven by resource-based sectors, typically male-dominant industries. Further investigation reveals that the most affected women workers are characterized as married and low-educated. These results offer crucial insights into trade and women's empowerment: relying on resource-basedcommodities does little to empower women and trade policies should not solely focus on export activities in their narratives.
+
 
 ### [Intergenerational link in women employment: evidence from Indonesia](https://jnmarshan.github.io/docs/motherdaughter_web.pdf)
 
