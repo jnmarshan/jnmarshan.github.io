@@ -1,5 +1,12 @@
-## Teaching Assistants
-As Tutor at College of Business and Economics (CBE), ANU.
+## As Lecturer
+at SchoPES, University of Canberra
+1. Introduction to International Business (2024)
+2. Asia Pacific Business (2024)
+3. Cost Benefit Analysis (2024)
+4. International Business PG (2024)
+
+## As Tutor 
+at College of Business and Economics (CBE), ANU.
 
 ### Awards
 CBE Teaching Commendation for Outstanding Tutoring (2020)
