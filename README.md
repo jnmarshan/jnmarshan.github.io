@@ -35,9 +35,7 @@ three-quarters of the gender gap in employment and around two-thirds of the gend
 
 ## Contact:
 University of Canberra, Building 11
-
 Room 11B23
-
 1 Kirinari St, Bruce ACT 2617
 
 Email: [joseph.marshan@canberra.edu.au](mailto:joseph.marshan@canberra.edu.au) | [joseph.marshan@anu.edu.au](mailto:joseph.marshan@anu.edu.au)  
