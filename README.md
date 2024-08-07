@@ -34,9 +34,9 @@ Australian attitudes towards women remain more conservative than in many other O
 three-quarters of the gender gap in employment and around two-thirds of the gender pay gap. More egalitarian peer norms are also associated with increased household incomes, a more equitable division of unpaid domestic work, and greater overall life satisfaction.
 
 ## Contact:
-University of Canberra, Building 11
-Room 11B23
-1 Kirinari St, Bruce ACT 2617
+University of Canberra, Building 11  
+Room 11B23  
+1 Kirinari St, Bruce ACT 2617  
 
 Email: [joseph.marshan@canberra.edu.au](mailto:joseph.marshan@canberra.edu.au) | [joseph.marshan@anu.edu.au](mailto:joseph.marshan@anu.edu.au)  
 Twitter: [@josephmarshan](https://twitter.com/JosephMarshan)  
