@@ -44,6 +44,6 @@ Linkedin: [jmarshan](https://www.linkedin.com/in/jmarshan/)
 Google Scholar: [Joseph Marshan](https://scholar.google.com/citations?hl=en&user=knBTakwAAAAJ)
 
 ### Other links:
-[SMERU profile](https://www.smeru.or.id/en/content/joseph-natanael-marshan) 
-[UC webpage](https://www.cbe.anu.edu.au/about/staff-directory/?profile=Joseph-Marshan](https://www.canberra.edu.au/about-uc/faculties/busgovlaw/our-people)
-[ANU webpage](https://www.cbe.anu.edu.au/about/staff-directory/?profile=Joseph-Marshan)
+[UC webpage](https://www.canberra.edu.au/about-uc/faculties/busgovlaw/our-people)  
+[ANU webpage](https://www.cbe.anu.edu.au/about/staff-directory/?profile=Joseph-Marshan)  
+[SMERU profile](https://www.smeru.or.id/en/content/joseph-natanael-marshan)   
