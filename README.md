@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a lecturer at [University of Canberra](https://www.canberra.edu.au/about-uc/faculties/busgovlaw/our-people). In July 2025, I will join [Monash University Indonesia](https://www.monash.edu/indonesia). I hold PhD in Economics from the Australian National University.
+I am a lecturer at [University of Canberra](https://www.canberra.edu.au/about-uc/faculties/busgovlaw/our-people). In July 2025, I will be joining [Monash University Indonesia](https://www.monash.edu/indonesia) as Assistant Professor (tenure track). I hold PhD in Economics from the Australian National University.
 
 My research interest lies between labour economics, gender economics and development economics. My main research topic is lifetime labour market outcomes and gender issues in Indonesia and Australia. I am PhD candidate in economics at Research School of Economics, The Australian National University. 
 
